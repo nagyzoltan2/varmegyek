@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#app{
+    margin-top: 150px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: white;
+}
+
+.container{
+    padding: 10px
+}
+
+.py-4{
+    background-color: yellow;
+    padding: 30px;
+    margin: 10px;
+    border: solid 3px;
+    border-radius: 20px;
+}
+
+h1{
+    color: white;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding-top: 5px;
+}
